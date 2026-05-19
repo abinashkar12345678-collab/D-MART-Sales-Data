@@ -62,3 +62,6 @@ Enhances understanding of customer segments and payment methods
 
 🚀 Conclusion
 This Power BI dashboard demonstrates how retail sales data can be transformed into interactive visual insights for better strategic decision-making and business growth.
+
+<img width="876" height="485" alt="image" src="https://github.com/user-attachments/assets/c9e46161-a2b8-4948-a426-5c0c720c2139" />
+
